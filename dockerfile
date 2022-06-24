@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY ./index.html /usr/share/nginx/html/index.html
+COPY ./website choudhrygroup.html  /usr/share/nginx/html/website choudhrygroup.html
